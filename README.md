@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rabbit MQ on Windows and .NET
 =============================
 
@@ -190,3 +191,7 @@ using (IModel channel = conn.CreateModel())
 The complete source of these examples are available in the stand-alone [RabbitMqTests.cs](https://github.com/mythz/rabbitmq-windows/blob/master/src/RabbitMq.Tests/RabbitMqTests.cs).
 
 
+=======
+# rabbitmq-windows
+A Rabit MQ example on windows with .net .
+>>>>>>> github/master
